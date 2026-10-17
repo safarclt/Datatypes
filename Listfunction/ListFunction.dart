@@ -18,5 +18,5 @@ void main() {
   print(c.toList());
   //insert all
   a.insertAll(1, [77, 87]);
-  print(a)
+  print(a);
 }
